@@ -1,0 +1,9 @@
+streamlit
+crewai
+langchain_groq
+langchain_anthropic
+langchain_openai
+python-dotenv
+pandas==2.1.1
+crewai_tools
+typing
