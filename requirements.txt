@@ -7,3 +7,6 @@ python-dotenv
 pandas==2.1.1
 crewai_tools
 typing
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
